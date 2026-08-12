@@ -25,7 +25,7 @@ project:
   will complete.
 - `ISEN_370_Project_1_Demo.ipynb` – Demonstration notebook containing
   examples that may be helpful as you complete the project.
-- ISEN370_Project1_Building_Data.csv – Data file used for the analysis.
+- `ISEN370_Project1_Building_Data.csv` – Data file used for the analysis.
 - `README.md` – Instructions for working with the project repository.
 
 ---
