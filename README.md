@@ -72,41 +72,49 @@ analysis and visualizations.
 
 ## Saving Your Work to GitHub
 
-Your completed work should be saved in your team's GitHub repository.
+Your completed work must be saved in your team's assigned GitHub repository.
+
+### Naming Your Project Notebook
 
 The first time your team saves the Project 1 assignment notebook to GitHub,
 rename the notebook using the following naming convention:
 
-`ISEN370_Fall26_Team_XX_Project1.ipynb`
+`ISEN370_SSYY_TeamXX_Project1.ipynb`
 
-Replace `XX` with your assigned team number.
+where:
 
-For example, Team 03 should use:
+- `SS` = semester (`FA` = Fall, `SP` = Spring, `SU` = Summer)
+- `YY` = two-digit year
+- `XX` = your two-digit team number
 
-`ISEN370_Fall26_Team_03_Project1.ipynb`
+For example, Team 03 in Fall 2026 would use:
 
-Once the team-specific notebook has been created, all team members should
-continue working with and saving to that same notebook. Do not create
-additional copies of the assignment notebook.
+`ISEN370_FA26_Team03_Project1.ipynb`
+
+**Important:** Google Colab may automatically add `Copy_of_` to the notebook
+filename. Remove `Copy_of_` and use the required filename shown above.
+
+Once your team has created the team-specific notebook, all team members should
+work from and save changes to that same notebook. Do not create additional
+copies of the assignment notebook.
+
+### Saving from Google Colab
 
 When working in Google Colab:
 
 1. Save your work regularly.
 2. From the Colab menu, select **File → Save a copy in GitHub**.
-3. Select your team's Project 1 repository in the NCAT-ISEN370 GitHub
+3. Select your team's Project 1 repository in the `NCAT-ISEN370` GitHub
    organization.
-4. In the **File path** field, enter your team's assigned notebook filename.
-5. Enter a brief commit message describing the work completed.
-6. Save the notebook to the `main` branch.
-7. Return to GitHub and confirm that the updated notebook appears in your
-   team's repository.
+4. In the **File path** field, enter your team's required notebook filename.
+5. Select the `main` branch.
+6. Enter a brief commit message describing the work completed.
+7. Save the notebook to GitHub.
+8. Return to your team's GitHub repository and verify that the updated
+   notebook appears there.
 
-**Important:** Google Colab may automatically add `Copy_of_` to the notebook
-filename. Remove `Copy_of_` before saving. Your team should maintain only one
-working Project 1 notebook using the required team-specific filename.
-
-Do not rely only on an open Colab session to store your work. Verify that
-your team's most recent work has been successfully saved to GitHub.
+Do not rely only on an open Google Colab session to store your work. Always
+verify that your team's most recent work has been successfully saved to GitHub.
 
 ---
 
